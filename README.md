@@ -1,1 +1,1 @@
-# About this Cool Concise Jekyll Blog Theme
+# About this Cool Jekyll Blog Theme
