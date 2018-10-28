@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "WebSocket探究与应用"
+title:  "WebSocket"
 categories: JavaScript
-tags:  WebSocket 通信 协议
+tags:  WebSocket
 ---
 
 * content
 {:toc}
 
-## WebSocket 适用场景
+## WebSocket 
 
-## WebSocket 原理
+## WebSocket 
 
-## WebSocket 浏览器兼容性
+## WebSocket 

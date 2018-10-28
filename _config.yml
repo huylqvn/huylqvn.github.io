@@ -18,20 +18,16 @@ twitter_username: huylqbk
 facebook_username: huylebk
 github_username:  huylqbk
 email: lequochuy930@gmail.com
-weibo_username: 3115521wh
-zhihu_username: huylqbk
 linkedIn_username: huylqbk
-dribbble_username:
 
-description_footer: ABC
+description_footer: 2018 
 
 
 duoshuo_shortname: #huylqbk
 disqus_shortname: huylqbk
 
 
-baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-google_analytics_id: UA-72449510-4 # google 
+google_analytics_id: # google 
 
 # Build settings
 markdown: kramdown
