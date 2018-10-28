@@ -35,7 +35,6 @@
   // console.log(backToTop);
   window.addEventListener('scroll', function() {
 
-    // 页面顶部滚进去的距离
     var scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop)
 
     if (scrollTop > 200) {
