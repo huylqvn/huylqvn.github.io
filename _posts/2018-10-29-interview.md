@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Chuẩn bị cho interview"
@@ -6,7 +5,6 @@ categories: Interview
 tags:   nodev
 author: Huy
 ---
-
 * content
 {:toc}
 
