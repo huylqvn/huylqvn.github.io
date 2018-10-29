@@ -8,8 +8,9 @@ author: Huy
 * content
 {:toc}
 
-
 Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẽ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
+
+## Hiểu interview
 
 Trước tiên thì mình xin nói về mục đích phỏng vấn của những công ty, thì theo mình được biết và được chia sẽ lại rằng, nhà tuyển dụng ở những công ty lớn rất quan tâm về những sinh viên vừa mới tốt nghiệp, những sinh viên đó là những nhân tố mới, học hỏi nhanh, thích ứng nhanh và một số người senior trong công ty rất thích làm việc cùng. Do là mới bước ra cách cửa đại học và chưa có những trải nghiệm về công việc trong môi trường IT nên ban đầu những sinh viên sẽ cần một thời gian để thích nghi với môi trường, cách làm việc, qui trình làm việc cũng như cách research một công nghệ mới. Hầu như đều sẽ có sự hướng dẫn nhiệt tình từ các đàn anh, đàn chị đi trước, nếu gặp một mentor giỏi thì con đường sự nghiệp sẽ đúng hướng ngay từ đầu. Song thì cũng có vài trường họp do tính chất công việc tại công ty nhiều, nên cũng có trường hợp các bạn bị bỏ bê và chán nản với mớ kiến thức phải tiếp thu tương đối lớn khi mới ra trường.
 
@@ -17,11 +18,11 @@ Vậy thì công ty sẽ chọn những sinh viên như thế nào. Đó là vai
 
 Mình chia ra 2 phần chúng ta cần phải rèn luyện trong quá trình học cũng như chuẩn bị phỏng vấn cho một công ty. Mình sẽ tạo ra 2 repository khác nhau để đào sâu 2 vấn đề này.
 
-[Rèn Giải thuật]()
+## [Rèn Giải thuật]()
 
 Phần thứ nhất: Tư duy lập trình và phong cách code (Bao gồm problem solving và coding style), đây là những kỹ năng cần rèn luyện hằng ngày, trong quá trình làm việc, những người giỏi là người có tư duy giải quyết vấn đề tốt, từ lấy yêu cầu đặt tả phần mềm cho đến thực hiện, tìm hiểu công nghệ hoặc testing thì cần có 1 tư duy sáng và thái độ ham học hỏi. Những công ty lớn như facebook, google, AWS đều đánh giá tiêu chí này hàng đầu, từ junior cho đến senior phải rèn luyện kỹ năng này thật tốt mới mong đạt được cấp độ mới trong nghề. Cũng sẽ có một số người làm lâu năm trở thành senior, làm lâu thành lão làng, thật ra cái này là quen việc, quen với một công nghệ nào đó. Sẽ ít có cơ hội đột phá hơn nếu không rèn luyện thuật toán.
 
-[Kiến thức cơ bản]()
+## [Kiến thức cơ bản]()
 
 Phần thứ hai là những kiến thức nền tảng mà một lập trình viên cần phải biết, học trên trường thì rất nhiều môn, kiến thức rất rộng và nghe đâu là môn nào cũng cần thiết cho sau này cả :))) thật ra khi phỏng vấn, quanh đi quẩng lại cũng vài môn trọng tâm mà khi học cảm thấy nó khó hiểu quá nên cho qua và không ôn lại, khi đi phỏng vấn được hỏi lại thì nắm không rõ và trình bài lang man không ngay trọng tâm. Những kiến thức này chỉ nằm trong một số môn sau đây thôi.
 
