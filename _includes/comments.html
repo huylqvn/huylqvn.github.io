@@ -1,70 +1,9 @@
-<div class="buttons">
-    <div style="width: 100%">
-        <button class="buttons1" onclick="openComment(event, 'Facebook')" id="defaultOpen"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></button>
-        <button class="buttons2" onclick="openComment(event, 'Disqus')"><i class="fa fa-commenting-o fa-3x" aria-hidden="true"></i></button>
-    </div>
-    </div>
-    <div id="Facebook" class="tabcontent">
-        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="auto" data-numposts="5"></div>
-    </div>
-    <div id="Disqus" class="tabcontent">
-        <div class="comment-wrapper">
-            {% if site.discus-identifier %}
-            <div id="disqus_thread" class="article-comments"></div>
-            <script>
-            (function() {
-                var d = document,
-                    s = d.createElement('script');
-                s.src = '//{{ site.discus-identifier }}.disqus.com/embed.js';
-                s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
-                height='200';
-            })();
-            </script>
-            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            {% endif %}
-        </div>
-    </div>
-    <div id="Google+" class="tabcontent">
-        <script src="https://apis.google.com/js/plusone.js">
-        </script>
-        <div id="google_comments"></div>
-        <script>
-        gapi.comments.render('google_comments', {
-            href: window.location,
-            width: '900',
-            height: '200',
-            first_party_property: 'BLOGGER',
-            view_type: 'FILTERED_POSTMOD'
-        });
-        </script>
-    </div>
-    <script>
-    function openComment(evt, CommentName) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-            tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablinks");
-        for (i = 0; i < tablinks.length; i++) {
-            tablinks[i].className = tablinks[i].className.replace(" active", "");
-        }
-        document.getElementById(CommentName).style.display = "block";
-        evt.currentTarget.className += " active";
-    }
-    // Get the element with id="defaultOpen" and click on it
-    document.getElementById("defaultOpen").click();
-    </script>
-    <style>
-    .buttons {
-        background-color: black; /* Green */
-        border: none;
-        color: black;
-        padding: 15px 32px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 16px;
-    }
-    </style>
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=YOUR-APP-ID";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
