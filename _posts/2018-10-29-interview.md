@@ -9,7 +9,7 @@ author: Huy
 * content
 {:toc}
 
-> Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẽ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
+ Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẽ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
 
 
 
@@ -21,9 +21,9 @@ author: Huy
 
 ## Hiểu interview
 
-> Trước tiên thì mình xin nói về mục đích phỏng vấn của những công ty, thì theo mình được biết và được chia sẽ lại rằng, nhà tuyển dụng ở những công ty lớn rất quan tâm về những sinh viên vừa mới tốt nghiệp, những sinh viên đó là những nhân tố mới, học hỏi nhanh, thích ứng nhanh và một số người senior trong công ty rất thích làm việc cùng. Do là mới bước ra cách cửa đại học và chưa có những trải nghiệm về công việc trong môi trường IT nên ban đầu những sinh viên sẽ cần một thời gian để thích nghi với môi trường, cách làm việc, qui trình làm việc cũng như cách research một công nghệ mới. Hầu như đều sẽ có sự hướng dẫn nhiệt tình từ các đàn anh, đàn chị đi trước, nếu gặp một mentor giỏi thì con đường sự nghiệp sẽ đúng hướng ngay từ đầu. Song thì cũng có vài trường họp do tính chất công việc tại công ty nhiều, nên cũng có trường hợp các bạn bị bỏ bê và chán nản với mớ kiến thức phải tiếp thu tương đối lớn khi mới ra trường.
+ Trước tiên thì mình xin nói về mục đích phỏng vấn của những công ty, thì theo mình được biết và được chia sẽ lại rằng, nhà tuyển dụng ở những công ty lớn rất quan tâm về những sinh viên vừa mới tốt nghiệp, những sinh viên đó là những nhân tố mới, học hỏi nhanh, thích ứng nhanh và một số người senior trong công ty rất thích làm việc cùng. Do là mới bước ra cách cửa đại học và chưa có những trải nghiệm về công việc trong môi trường IT nên ban đầu những sinh viên sẽ cần một thời gian để thích nghi với môi trường, cách làm việc, qui trình làm việc cũng như cách research một công nghệ mới. Hầu như đều sẽ có sự hướng dẫn nhiệt tình từ các đàn anh, đàn chị đi trước, nếu gặp một mentor giỏi thì con đường sự nghiệp sẽ đúng hướng ngay từ đầu. Song thì cũng có vài trường họp do tính chất công việc tại công ty nhiều, nên cũng có trường hợp các bạn bị bỏ bê và chán nản với mớ kiến thức phải tiếp thu tương đối lớn khi mới ra trường.
 
-> Vậy thì công ty sẽ chọn những sinh viên như thế nào. Đó là vai trò của những team leader, người có vai trò phỏng vấn kỹ thuật, đa phần họ sẽ chọn những bạn nhanh nhẹn, đưa ra được những solving problem nhanh và kiến thức cơ bản tốt. Vì là chưa trải qua một dự án nào nên thường sẽ test phần coding xem phong cách code và cách giải quyết vấn đề có tối ưu không. Bảng điểm thường rất ít khi người phỏng vấn quan tâm, vì một sinh viên IT giỏi chưa chắc đã có bảng điểm đẹp, nhưng sinh viên có bảng điểm tốt thường kiến thức nền rất tốt và thái độ làm việc cũng rất tốt :))).
+ Vậy thì công ty sẽ chọn những sinh viên như thế nào. Đó là vai trò của những team leader, người có vai trò phỏng vấn kỹ thuật, đa phần họ sẽ chọn những bạn nhanh nhẹn, đưa ra được những solving problem nhanh và kiến thức cơ bản tốt. Vì là chưa trải qua một dự án nào nên thường sẽ test phần coding xem phong cách code và cách giải quyết vấn đề có tối ưu không. Bảng điểm thường rất ít khi người phỏng vấn quan tâm, vì một sinh viên IT giỏi chưa chắc đã có bảng điểm đẹp, nhưng sinh viên có bảng điểm tốt thường kiến thức nền rất tốt và thái độ làm việc cũng rất tốt :))).
 
 Mình chia ra 2 phần chúng ta cần phải rèn luyện trong quá trình học cũng như chuẩn bị phỏng vấn cho một công ty. Mình sẽ tạo ra 2 repository khác nhau để đào sâu 2 vấn đề này.
 
