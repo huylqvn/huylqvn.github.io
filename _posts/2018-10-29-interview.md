@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2018-10-29 13:48:00
 title:  "Chuẩn bị cho interview"
 categories: Interview
 tags:   nodev
@@ -9,6 +10,8 @@ author: Huy
 {:toc}
 
 Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẽ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
+
+---
 
 ## Hiểu interview
 

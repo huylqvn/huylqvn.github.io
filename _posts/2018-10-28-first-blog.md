@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2018-10-28 16:06:05
 title:  "The first blog"
 categories: noDev
 tags:   nodev
@@ -8,6 +9,9 @@ author: Huy
 
 * content
 {:toc}
+Bắt đầu viết blog
+
+---
 
 ## Bài Viết Đầu 
 
