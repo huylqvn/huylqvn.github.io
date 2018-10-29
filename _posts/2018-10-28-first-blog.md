@@ -2,7 +2,7 @@
 layout: post
 title:  "The first blog"
 categories: noDev
-tags:   Nodev
+tags:   nodev
 author: Huy
 ---
 
