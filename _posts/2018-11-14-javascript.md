@@ -11,6 +11,15 @@ author: Huy
 
 ## Giới Thiệu
 - Thế giới của javascript có rất nhiều thứ để học và để cover được tất cả thì cần một effort không hề nhỏ, hy vọng bài viết này sẽ giúp gôm cụm được những kiến thức cần tìm hiểu về javascript.
+
+
+
+
+
+
+
+
+
 - Tương lai của js tương đối tươi sáng cùng với cộng đồng opensource đông đảo, từ client server, tool đến các database cũng có nhiều dự án đang triển khai bằng js.
 - Nếu như đã biết một ngôn ngữ lập trình nào đó thì học js rất nhanh
 
