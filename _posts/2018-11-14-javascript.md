@@ -9,7 +9,7 @@ author: Huy
 * content
 {:toc}
 
-## Giới Thiệu
+
 - Thế giới của javascript có rất nhiều thứ để học và để cover được tất cả thì cần một effort không hề nhỏ, hy vọng bài viết này sẽ giúp gôm cụm được những kiến thức cần tìm hiểu về javascript.
 
 
@@ -18,8 +18,7 @@ author: Huy
 
 
 
-
-
+## Giới Thiệu
 - Tương lai của js tương đối tươi sáng cùng với cộng đồng opensource đông đảo, từ client server, tool đến các database cũng có nhiều dự án đang triển khai bằng js.
 - Nếu như đã biết một ngôn ngữ lập trình nào đó thì học js rất nhanh
 
@@ -27,6 +26,7 @@ author: Huy
 - Là những thành phần cơ bản cấu thành nên bất cứ chương trình nào.
 - Javascript sử dụng 64 bit để biểu diễn number
 - Cần chú ý memory leak khi sử dụng biến [Link blog memory leak](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
+- Implicit Coercion - ép kiểu là tính năng chuyển đúng kiểu dữ liệu, có thể đọc thêm bài viết [Implicit Coercion](https://dev.to/promhize/what-you-need-to-know-about-javascripts-implicit-coercion-e23)
 
 ## Statement
 - Được kết thúc bằng dấu chấm phẩu ";" hoặc có thể bỏ nhưng các câu lệnh phải khác dòng
@@ -43,6 +43,28 @@ author: Huy
 - Khi viết function cần ưu tiên thỏa mãn hàm chỉ thực hiện 1 chức năng duy nhất, độc lập với các biến bên ngoài và dễ tái sử dụng.
 - Tham khảo thêm bài viết về cách sử dụng function trong javascript [Function trong javascript](https://codeburst.io/all-about-javascript-functions-in-1-article-49bfd94b31ab)
 
-## 
+## JavaScript Engine
+- dùng để thông dịch hoặc compile just-in-time thành bytecode
+- Ngoài V8 engine dùng trong chrome còn có SpiderMonkey(firefox), Chakra(Microsoft Edge), Rhino, JavaScriptCore (Safari)...
+- Hidden Class
+- Inline cache
+- Dynamic Machine Code Generation
+- Garbage Collection
+- JavaScript tối ưu hóa
 
+## setTimeout và setInterval
+
+## DOM and Layout Trees
+
+## this, call, apply and bind
+
+## map, reduce, filter
+
+## High Order Functions
+
+## Collections and Generators
+
+## Promises, async/await
+
+## Design Patterns
 
