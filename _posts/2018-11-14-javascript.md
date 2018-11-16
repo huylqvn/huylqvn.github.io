@@ -3,7 +3,7 @@ layout: post
 date: 2018-11-14 17:48:00
 title:  "Muốn học JavaScript cần học những gì?"
 categories: Programming
-tags:   Javascript, Concept
+tags:   Javascript Concept
 author: Huy
 ---
 * content
@@ -67,4 +67,6 @@ author: Huy
 ## Promises, async/await
 
 ## Design Patterns
+
+## Tổng kết
 
