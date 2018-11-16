@@ -10,7 +10,7 @@ author: Huy
 {:toc}
 
 
-- Thế giới của javascript có rất nhiều thứ để học và để cover được tất cả thì cần một effort không hề nhỏ, hy vọng bài viết này sẽ giúp gôm cụm được những kiến thức cần tìm hiểu về javascript.
+Thế giới của javascript có rất nhiều thứ để học và để cover được tất cả thì cần một effort không hề nhỏ, hy vọng bài viết này sẽ giúp gôm cụm được những kiến thức cần tìm hiểu về javascript.
 
 
 
