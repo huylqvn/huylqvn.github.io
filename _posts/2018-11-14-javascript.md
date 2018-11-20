@@ -51,10 +51,19 @@ Thế giới của javascript có rất nhiều thứ để học và để cove
 - Dynamic Machine Code Generation
 - Garbage Collection
 - JavaScript tối ưu hóa
+- Link sau sẽ nói rõ những thuật ngữ này, [JS Engine](https://medium.freecodecamp.org/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553)
+
 
 ## setTimeout và setInterval
+- Là những hàm có cơ chế bất đồng bộ (async)
+- setTimeOut(function,time) và setInterval(function,time) cả 2 thực hiện function sau thời gian time.
+- setTimeOut thực hiện chỉ 1 lần
+- setInterval thực hiện lặp đi lặp lại
+- Dùng clearTimeout(action) và clearInterval(action) để hủy nhiệm vụ
+- Đọc bài viết sau để hiểu thêm [SetTimeOut và SetInterval](https://develoger.com/settimeout-vs-setinterval-cff85142555b)
 
 ## DOM and Layout Trees
+
 
 ## this, call, apply and bind
 
