@@ -3,7 +3,7 @@ layout: post
 date: 2018-10-29 13:48:00
 title:  "Chuẩn bị cho interview"
 categories: Interview
-tags:   nodev
+tags:   noDev
 author: Huy
 ---
 * content
