@@ -58,7 +58,7 @@ Git là một công cụ cũng như github là nơi để tìm kiếm code dễ 
 ## Step 8. Learn software architecture
 
 Kiến trúc nodeJS thường thực hiện bằng SOA hoặc Microservice, sự hiểu biết hơn về hệ thống là một quá trình tìm hiểu lâu dài và không phải khi nào cũng có cơ hợp tiếp xúc với hệ thống lớn
-Tìm kiếm các chia sẽ và cách những công ty lớn đã làm với sản phẩm của mình thay cho việc đọc báo tin tức nhảm. Trong repo này có nhiều kiến thức về [system design](https://github.com/donnemartin/system-design-primer)
+Tìm kiếm các chia sẻ và cách những công ty lớn đã làm với sản phẩm của mình thay cho việc đọc báo tin tức nhảm. Trong repo này có nhiều kiến thức về [system design](https://github.com/donnemartin/system-design-primer)
 
 ## Step 9. Unleash the power of the command line
 

@@ -55,7 +55,7 @@ Tèo hiểu ra rằng, dù nghề nào cũng vậy không chỉ làm lập trìn
 
 Ngày hôm sau, Tèo đến nhà già làng uống nước trà và hỏi "Những người lập trình viên giỏi thì họ như thế nào?"
 
-Một câu hỏi về cách nhìn nhận thái độ làm việc chuyên nghiệp của lập trình viên mà với kinh nghiệm của già làng thừa biết ai là một lập trình viên tốt khi làm việc cùng. Với Tèo là một sự thay đổi lớn sau khi nghe già làng chia sẽ.
+Một câu hỏi về cách nhìn nhận thái độ làm việc chuyên nghiệp của lập trình viên mà với kinh nghiệm của già làng thừa biết ai là một lập trình viên tốt khi làm việc cùng. Với Tèo là một sự thay đổi lớn sau khi nghe già làng chia sẻ.
 
 Già làng đưa ra luận điểm đầu tiên Tèo cần có là "Trách nhiệm với công việc", khi gặp lỗi không tìm các lý do để đỗ lỗi mà tìm phương pháp để khắc phục và backup, không nói "the cat ate my source code", đừng đỗ lỗi cho người khác, thay vì phàn nàn thì hãy cố gắng nghĩ ra solution, tìm ra cách trước khi bàn về vấn đề.
 

@@ -9,7 +9,7 @@ author: Huy
 * content
 {:toc}
 
- Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẽ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
+ Mình là một student vừa mới ra trường, và cũng thử sức phỏng vấn một vài công ty nên cũng muốn chia sẻ một số điều liên quan đến cách để ôn tập và chuẩn bị cho những cuộc phỏng vấn đầu tiên.
 
 
 
