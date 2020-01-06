@@ -17,6 +17,22 @@
       title: 'ReactJS ',
       core_tech: 'JavaScript',
       description: 'Demo for practice coding with react'
+    },
+    {
+      demo_link: 'https://github.com/huylqbk/http-grpc-go-kit-demo',
+      img_link: 'https://i1.wp.com/phocode.com/wp-content/uploads/2016/08/golang.sh-600x600.png',
+      code_link: 'https://github.com/huylqbk/http-grpc-go-kit-demo',
+      title: 'Golang ',
+      core_tech: 'golang, grpc',
+      description: 'Demo for practice coding with golang'
+    },
+    {
+      demo_link: 'https://github.com/huylqbk/NodeJSBackend',
+      img_link: 'https://hocvps.com/wp-content/uploads/2017/12/NodeJS.png',
+      code_link: 'https://github.com/huylqbk/NodeJSBackend',
+      title: 'NodeJS ',
+      core_tech: 'JavaScript',
+      description: 'Demo for practice coding with Nodejs backend'
     }
   ];
 
