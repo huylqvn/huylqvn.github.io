@@ -25,7 +25,7 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li class="results-items"><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
         noResultsText: 'No results found',
         limit: 10,
         fuzzy: false,
@@ -53,6 +53,20 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+  }
+  #results-container {
+  position: relative;
+  display: inline-block;
+  }
+  #results-items {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  top: 100%;
+  left: 0;
+  right: 0;
   }
 </style>
     <!-- <script src="{{ " /js/scroll.min.js " | prepend: site.baseurl }}" charset="utf-8"></script> -->
