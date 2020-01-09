@@ -8,6 +8,7 @@ author: Huy
 ---
 * content
 {:toc}
+
 Lúc này là 2h sáng, nhưng với những cảm xúc mãnh liệt nên mình đã bật dậy và viết những dòng này. Một người bạn rất thân của mình, học chuyên ngành hóa cùng trường với Mình. Và giờ có một giấc mơ về tương lai là trở thành một Programmer, dù đã là năm cuối rồi nhưng mình nghĩ đó vẫn là chưa muộn để bắt đầu, nên mình đồng ý 2 tay 2 chân quyết định tập trung vào học lập trình từ cơ bản nhất đến có thể làm được việc.
 
 
