@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2018-11-25 2:06:00
-title:  "Một sự bắt đầu cho tương lai - Programmer"
+title:  "Dành cho những ai muốn làm việc trái ngành - Programmer"
 categories: fresher
 tags:   fresher
 author: Huy

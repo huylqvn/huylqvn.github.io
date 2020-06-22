@@ -15,8 +15,8 @@ author: Huy
 
 ## Bài Viết Đầu 
 
-Trong những lúc ngồi quán cafe không có ai để nói chuyện thì đành mượn blog này để bài tỏ một thứ gì đó.
+Trong những lúc ngồi quán cafe không biết làm gì thì mình đã tạo ra blog này.
 
-Mình sẽ cố gắng xuất bản những bài viết thường xuyên và có chất lượng, mong là giúp ích được vài người.
+Mình sẽ cố gắng xuất bản những bài viết thường xuyên và có chất lượng, mong là hữu ích với những ai đọc được.
 
 Hello World :))

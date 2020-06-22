@@ -9,7 +9,7 @@ author: Huy
 * content
 {:toc}
 
-Bắt đầu một năm mới với nhiều điều mới mẻ với mình. Mình vừa xin công ty nghỉ việc trong khi chưa tìm cho mình cơ hội công việc mới nào. Thật ra cảm thấy thoải mái hơn nhiều khi ra quyết định này, để bản thân relax một thời gian trước tết và sau tết, hì. 
+Bắt đầu một năm mới với nhiều điều mới mẻ với mình. Mình vừa xin công ty nghỉ việc trong khi chưa tìm cho mình cơ hội công việc mới nào. Thật ra cảm thấy thoải mái hơn nhiều khi ra quyết định này, để bản thân relax một thời gian trước tết và sau tết. 
 
 
 
