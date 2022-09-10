@@ -21,7 +21,8 @@ I'am Huy Le (Morris), I graduated at Bach Khoa University with Computer Science 
 ### [Deepcactus](https://github.com/aicactus) - Golang developer
 ### [Be Group](https://be.com.vn) - Software engineer
 ### [Zalopay](https://engineering.zalopay.vn) - Software engineer
-### [Viettel] (https://solutions.viettel.vn) - Intern Software engineer
+### [Viettel](https://solutions.viettel.vn) - Intern Software engineer
+
 
 ## Skill
 - Backend development
